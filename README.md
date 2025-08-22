@@ -40,4 +40,6 @@ This project was built as a frontend assignment to demonstrate skills in **React
 ### getting started
      -git clone https://github.com/rahul-6472/bitespeed-flow-builder-plus.git
      -cd chatbot-flow-builder-plus
+### Deployed Link
+     -https://bitespeedflowbuilder.netlify.app/
 
